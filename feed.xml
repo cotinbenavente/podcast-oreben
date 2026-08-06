@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Podcast Oreben</title>
+    <description>Podcast interno del equipo de Oreben: análisis y aprendizajes del negocio, en formato entrevista.</description>
+    <language>es-cl</language>
+    <link>https://cotinbenavente.github.io/podcast-oreben</link>
+    <itunes:author>Oreben</itunes:author>
+    <itunes:category text="Business" />
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Pippa: por qué cayeron las ventas y qué hacer — Episodio 1</title>
+      <description>Introducción al análisis de marketing de Pippa para el equipo de Oreben: diagnóstico de la caída de ventas 2026, la causa raíz digital, y las palancas concretas para revertirla.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-oreben/podcast-oreben-pippa-ep1.mp3" type="audio/mpeg" length="26660919" />
+      <guid isPermaLink="false">oreben-podcast-oreben-analisis-marketing-pippa-ep1</guid>
+      <pubDate>Thu, 06 Aug 2026 18:18:53 +0000</pubDate>
+      <itunes:author>Oreben</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
